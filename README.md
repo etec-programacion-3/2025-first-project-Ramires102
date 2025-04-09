@@ -1,3 +1,5 @@
+# Nombre: Pablo Chiavetta
+
 # 2025-first-project-Ramires102
 
 Este proyecto contiene scripts básicos en Python que imprimen mensajes en la consola. Es ideal para principiantes que están aprendiendo a programar en Python.
